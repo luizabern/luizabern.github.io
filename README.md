@@ -1,2 +1,2 @@
-# luizabern.github.io
+http://luizabern.github.io
 A personal website, still in development
